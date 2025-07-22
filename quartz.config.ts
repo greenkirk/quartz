@@ -16,8 +16,8 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "kb.greeneggsandram.com",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "kb21.greeneggsandram.com",
+    ignorePatterns: ["private", "templates", ".obsidian", "kirk"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
